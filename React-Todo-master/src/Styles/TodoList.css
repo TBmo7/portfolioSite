@@ -1,0 +1,27 @@
+.todo-list{
+
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.todo-list button{
+border:none;
+width: 341px;
+height: 53px;
+background: #8DFFFF;
+box-shadow: 2px 4px 1px #16716B;
+border-radius: 26.5px;
+margin-top: 30px;
+
+font-family: Play;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 25px;
+
+color: #000000;
+
+
+}

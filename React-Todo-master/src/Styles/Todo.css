@@ -1,0 +1,30 @@
+.todo-holder{
+    background:#8DFFFF;
+    height:82px;
+    margin-bottom: 12px;
+    display:flex;
+    width:100%;
+  
+}
+
+.todo-item{
+    display: flex;
+    background:#74CDCD;
+    height:82px;
+    width: 98%;
+    margin-left: 13px;
+
+}
+
+.todo-item p {
+
+    margin-left:5px;
+    
+
+}
+.todo-item.done{
+    text-decoration: line-through;
+    color:white;
+    background:#00666b;
+}
+

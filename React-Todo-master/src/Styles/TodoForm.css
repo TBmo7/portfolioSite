@@ -1,0 +1,47 @@
+.form-wrapper{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.form-master{
+    display:flex;
+    flex-direction: column;
+    width:100%;
+    
+    
+}
+
+.form-input{
+   border: none;
+   width:99%;
+   margin:2px;
+   height:60px;
+   border-radius: 8px;
+   background-color: #bbeded;
+
+   font-family: Play;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 22px;
+   line-height: 25px;
+
+}
+.form-master button{
+    border:none;
+    margin-top: 8px;
+    align-self: center;
+    width:80%;
+    height:45px;
+    background: #8DFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    font-family: Play;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 25px;
+    color: #000000;
+
+}
